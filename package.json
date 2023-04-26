@@ -1,0 +1,12 @@
+{
+  "name": "bank-of-flatiron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Bank of Flatiron'",
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
